@@ -5,7 +5,7 @@
 
 </br>
 
-## Tic-tac-toe game for Android
+## Tic-Tac-Toe game for Android
 
 </br>
 
