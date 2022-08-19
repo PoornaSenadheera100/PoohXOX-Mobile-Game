@@ -4,8 +4,10 @@
 </p>
 
 </br>
+
 ## Tic-tac-toe game for Android
-</br></br>
+
+</br>
 
 - Supports to Android devices
 - Minimum SDK Version is Android 5.0 (Lollipop)
