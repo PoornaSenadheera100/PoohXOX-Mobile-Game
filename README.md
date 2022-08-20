@@ -12,3 +12,4 @@
 - Supports to Android devices
 - Minimum SDK Version is Android 5.0 (Lollipop)
 - Developed in Java language
+- Android Studio project
